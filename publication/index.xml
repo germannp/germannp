@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Philipp Germann</title>
+    <link>http://germannp.github.io/publication/index.xml</link>
+    <description>Recent content in Publications on Philipp Germann</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Philipp Germann</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Antigen Availability and DOCK2-Driven Motility Govern CD4&#43; T Cell Interactions with Dendritic Cells In Vivo</title>
+      <link>http://germannp.github.io/publication/dock2/</link>
+      <pubDate>Mon, 12 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/dock2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution of neurosensory progenitor pools during inner ear morphogenesis unveiled by cell lineage reconstruction</title>
+      <link>http://germannp.github.io/publication/neurosensory-progenitors/</link>
+      <pubDate>Wed, 04 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/neurosensory-progenitors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Tissue Morphogenesis and Signaling</title>
+      <link>http://germannp.github.io/publication/simulating-morphogenesis-and-signaling/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/simulating-morphogenesis-and-signaling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attenuated sensing of SHH by Ptch1 underlies evolution of bovine limbs</title>
+      <link>http://germannp.github.io/publication/bovine-limbs/</link>
+      <pubDate>Thu, 03 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/bovine-limbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How do digits emerge? - mathematical models of limb development.</title>
+      <link>http://germannp.github.io/publication/models-of-limb-development/</link>
+      <pubDate>Thu, 27 Mar 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/models-of-limb-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Organogenesis in COMSOL: Parameter Optimization for PDE-based models</title>
+      <link>http://germannp.github.io/publication/optimization-for-pdes/</link>
+      <pubDate>Mon, 09 Sep 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/optimization-for-pdes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digit patterning during limb development as a result of the BMP-receptor interaction.</title>
+      <link>http://germannp.github.io/publication/digit-patterning/</link>
+      <pubDate>Tue, 18 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/digit-patterning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulating Organogenesis in COMSOL</title>
+      <link>http://germannp.github.io/publication/organogenesis-in-comsol/</link>
+      <pubDate>Thu, 13 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>http://germannp.github.io/publication/organogenesis-in-comsol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
